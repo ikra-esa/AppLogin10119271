@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AppLogin10119271</string>
+    <string name="to">to</string>
+    <string name="subject">subject</string>
+    <string name="message">message</string>
+    <string name="submit">submit</string>
+    <string name="passwaord">Passwaord</string>
+    <string name="login">LOGIN</string>
+    <string name="register">Register</string>
+    <string name="password">pAssword</string>
+    <string name="Password">Password</string>
+    <string name="profile">Profile</string>
+    <string name="logout">logout</string>
+    <string name="lets_get_started">Lets get started</string>
+    <string name="back_to_main_menu">back_to_main_menu</string>
+    <string name="back">back</string>
+</resources>
